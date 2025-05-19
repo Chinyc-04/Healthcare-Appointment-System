@@ -48,7 +48,7 @@ CREATE SYMMETRIC KEY NameKey WITH ALGORITHM=AES_256 ENCRYPTION BY CERTIFICATE Na
 
 
 
---Username: HealthAdmin
+--Username: HealthcareAdmin
 --Password: Pa$$w0rd
 
-Master key decryption password: Pa$$w0rd
+--Master key decryption password: Pa$$w0rd
